@@ -40,4 +40,7 @@ COD is most used payment mode
 Some months show negative profit
 =======
 # main
->>>>>>> 57231ec5ecb1a87d5340c9bc4616c75b2e09606b
+git pull origin main --allow-unrelated-histories
+git add .
+git commit -m "Merged"
+git push -u origin main
