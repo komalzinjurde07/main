@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Madhav Ecommerce Sales Dashboard**
 
 📌 **Project Overview**
@@ -37,3 +38,6 @@ Clothing category dominates
 COD is most used payment mode
 
 Some months show negative profit
+=======
+# main
+>>>>>>> 57231ec5ecb1a87d5340c9bc4616c75b2e09606b
